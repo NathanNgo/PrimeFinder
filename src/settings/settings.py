@@ -1,7 +1,3 @@
-"""
-A settings module to store all the variables in because I'm a lazy asshole and
-don't want to use a .env
-
-"""
+"""A settings module to store configurable aspects of the bot."""
 
 COMMAND_PREFIX = "!"
